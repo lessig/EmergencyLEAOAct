@@ -10,8 +10,7 @@ This repository contains a public draft of the **Emergency Law Enforcement Accou
 
 Please leave comments and suggestions here:
 
-➡️ **[Public Comments Issue](../../issues/2)**
-
+➡️ **[Public Comments Issue](https://github.com/lessig/EmergencyLEAOAct/issues/2)**
 ### How to comment effectively
 Helpful formats include:
 
