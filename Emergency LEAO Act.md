@@ -177,7 +177,7 @@ The central premise of this statute is to prevent federal officers from utilizin
 * **Judicial Review Limitation:** Section 3(d) now explicitly bars state courts from reviewing not just the Declaration, but **"any other action arising out of this Chapter."** This drastic measure is intended to funnel all challenges through the internal administrative appeal process, preventing state judges from issuing stays or injunctions that would delay the emergency response.
 
 #### **3\. Administrative Detention (Section 4\)**
-
+20 amory st brookline ma
 * **Why "Administrative Detention"?** We explicitly avoid the term "arrest" to distinguish this from criminal procedure. This creates a parallel to civil immigration detention or quarantine powers.  
 * **Severability:** Because executive detention without judicial warrant is constitutionally aggressive, Section 4(c) ensures that if a court strikes down the *pre-hearing detention* aspect, the rest of the adjudication machinery remains intact.
 
